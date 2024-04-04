@@ -82,4 +82,4 @@ Connect with the community on our `Forum <https://forum.0xProtocol.org/>`_, `Dis
    Forum <https://forum.0xProtocol.org/>
    Reddit <https://www.reddit.com/r/0xProject/>
    Discord <https://discord.com/invite/official0x>
-   Twitter <https://twitter.com/zeroexprotocol>
+   Twitter <https://twitter.com/ibrahimlala456>
